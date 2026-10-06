@@ -27,6 +27,10 @@ Run the game. The help panel on the left in the main menu should read **Tiny Tow
 - Worlds edited with the mod are still compatible with the vanilla game.
 - and more.
 
+# Gallery
+<img width="1604" alt="World/Snapping Menu" src="snapping.png"><img width="1604" alt="Atmosphere and Cloud Settings" src="clouds.png"><img width="1604" alt="Night Preset" src="stars.png">|
+<img width="1604" alt="Item Settings" src="item.png">
+
 # Disclaimer
 
 **Claude** was used in the making of this mod.
