@@ -28,8 +28,7 @@ Run the game. The help panel on the left in the main menu should read **Tiny Tow
 - and more.
 
 # Gallery
-<img width="1604" alt="World/Snapping Menu" src="snapping.png"><img width="1604" alt="Atmosphere and Cloud Settings" src="clouds.png"><img width="1604" alt="Night Preset" src="stars.png">|
-<img width="1604" alt="Item Settings" src="item.png">
+<img width="1604" alt="World/Snapping Menu" src="snapping.png"><img width="1604" alt="Atmosphere and Cloud Settings" src="clouds.png"><img width="1604" alt="Night Preset" src="stars.png"><img width="1604" alt="Item Settings" src="item.png">
 
 # Disclaimer
 
