@@ -32,4 +32,4 @@ Run the game. The help panel on the left in the main menu should read **Tiny Tow
 
 # Disclaimer
 
-**Claude** was used in the making of this mod.
+**Claude** was used in the making of this mod. This mod is mostly vibe coded as a test and also because im a big stupid and not a programer, I ran a bunch of tests to make sure this was as bug free as possible and doesn't effect the performance of the vanilla game, obviously some of the mod settings affect performance due to how they work but vanilla settings should be fine. That being said if anyone smarter than me wants to use any of this code, use it how you like no credit or permission needed its basically not my code anyway lol.
