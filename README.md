@@ -16,6 +16,10 @@ Run the game. The help panel on the left in the main menu should read **Tiny Tow
 **Thanks to the BepInEx team\!**
 
 # Changes and Additions
+
+
+**Read the help menu for info about new features and their controls, there's categories for each new feature.**
+
 - Processing Workshop Items, the 300 item limit and Workshop items not being removed are all fixed.
 - Group Tool: select objects with a brush to move, copy, delete or edit them together, and make groups that are saved with the world.
 - World Select and Create World overhaul: rename, duplicate, custom thumbnails and export/import saves. Workshop and default worlds can be used as templates.
