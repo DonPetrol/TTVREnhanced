@@ -16,16 +16,19 @@ Run the game. The help panel on the left in the main menu should read **Tiny Tow
 **Thanks to the BepInEx team\!**
 
 # Changes and Additions
-- Processing Workshop Items bug, 300 item limit bug, Workshop items not being removed bug are fixed.
-- Overhauled World Select and Create World menus: rename, custom thumbnails, duplicate, export/import saves, workshop and default worlds are now templates.
-- Option to auto subscribed to missing items when loading a world.
-- Autosaving, Manual Saving and Backups
-- Edit World and Item properties: Sky, Atmosphere, Lighting, Stars, Moving Clouds, Item Emission, Item Color Tinting, Item Transparency and more.
-- Expanded settings menu: Stick based movement options, Video settings, Movement Vignette and more.
-- Unlockable world scale, 0.01x to 100x
-- Build menu: search, sorting, author filter, arrow navigation and Workshop author names
-- Worlds edited with the mod are still compatible with the vanilla game.
-- and more.
+- Processing Workshop Items, the 300 item limit and Workshop items not being removed are all fixed.
+- Group Tool: select objects with a brush to move, copy, delete or edit them together, and make groups that are saved with the world.
+- World Select and Create World overhaul: rename, duplicate, custom thumbnails and export/import saves. Workshop and default worlds can be used as templates.
+- Missing items: option to auto-subscribe to missing Workshop items when loading a world.
+- Saving: autosave, manual save from the wrist menu, and backups.
+- World and item properties: sky, atmosphere, lighting, stars, moving clouds, and item emission, colour tint, transparency and more.
+- Placement: scale ground pieces, ignore copy collision, copy up and down, and head-based scale.
+- World scale: unlockable, from 0.01x to 100x.
+- Build menu: search, sorting, author filter, arrow navigation and Workshop author names.
+- Expanded settings: stick movement options, video settings and movement vignette, Fix Oculus Controls for Quest and Rift through SteamVR.
+- In-game Help pages for every mod feature, plus a changelog.
+- Vanilla compatible: worlds edited with the mod still work in the vanilla game.
+- And more.
 
 # Gallery
 <img width="1604" alt="World/Snapping Menu" src="snapping.png"><img width="1604" alt="Atmosphere and Cloud Settings" src="clouds.png"><img width="1604" alt="Night Preset" src="stars.png"><img width="1604" alt="Item Settings" src="item.png">
